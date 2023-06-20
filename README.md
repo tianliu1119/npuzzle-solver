@@ -1,2 +1,2 @@
-# npuzzle-solver
-A program for solving an 8-puzzle of any size, or an N-puzzle, by using various search algorithms and heuristic functions commonly used in AI.
+# N-Puzzle Solver
+A program for solving an 8-puzzle of any size, or an N-puzzle, by using various search algorithms and heuristic functions commonly used in AI. The program is able to solve 8-puzzles within a reasonable time frame using any of the available search algorithms. The program is able to solve some 15-puzzles or larger puzzles within a reasonable time frame perhaps only when using A* search with a heuristic function, such as the Manhattan Distance and Linear Conflict combination heuristic.
